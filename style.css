@@ -11,3 +11,10 @@
 .league{
   font-family: 'League Spartan', sans-serif;
 }
+
+#SocialEvents{
+  display: none;
+}
+#SpecialEvents{
+  display: none;
+}
